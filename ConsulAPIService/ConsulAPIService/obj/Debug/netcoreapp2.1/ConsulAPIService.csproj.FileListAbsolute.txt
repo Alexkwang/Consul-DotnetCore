@@ -1,0 +1,14 @@
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\bin\Debug\netcoreapp2.1\ConsulAPIService.deps.json
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\bin\Debug\netcoreapp2.1\ConsulAPIService.runtimeconfig.json
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\bin\Debug\netcoreapp2.1\ConsulAPIService.runtimeconfig.dev.json
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\bin\Debug\netcoreapp2.1\ConsulAPIService.dll
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\bin\Debug\netcoreapp2.1\ConsulAPIService.pdb
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\obj\Debug\netcoreapp2.1\ConsulAPIService.csproj.CoreCompileInputs.cache
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\obj\Debug\netcoreapp2.1\ConsulAPIService.RazorAssemblyInfo.cache
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\obj\Debug\netcoreapp2.1\ConsulAPIService.RazorAssemblyInfo.cs
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\obj\Debug\netcoreapp2.1\ConsulAPIService.AssemblyInfoInputs.cache
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\obj\Debug\netcoreapp2.1\ConsulAPIService.AssemblyInfo.cs
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\obj\Debug\netcoreapp2.1\ConsulAPIService.RazorTargetAssemblyInfo.cache
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\obj\Debug\netcoreapp2.1\ConsulAPIService.dll
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\obj\Debug\netcoreapp2.1\ConsulAPIService.pdb
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulAPIService\ConsulAPIService\obj\Debug\netcoreapp2.1\ConsulAPIService.csprojAssemblyReference.cache

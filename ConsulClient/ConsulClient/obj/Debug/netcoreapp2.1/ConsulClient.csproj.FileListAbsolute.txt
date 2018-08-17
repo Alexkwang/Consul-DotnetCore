@@ -1,0 +1,11 @@
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulClient\ConsulClient\bin\Debug\netcoreapp2.1\ConsulClient.deps.json
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulClient\ConsulClient\bin\Debug\netcoreapp2.1\ConsulClient.runtimeconfig.json
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulClient\ConsulClient\bin\Debug\netcoreapp2.1\ConsulClient.runtimeconfig.dev.json
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulClient\ConsulClient\bin\Debug\netcoreapp2.1\ConsulClient.dll
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulClient\ConsulClient\obj\Debug\netcoreapp2.1\ConsulClient.csprojAssemblyReference.cache
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulClient\ConsulClient\obj\Debug\netcoreapp2.1\ConsulClient.csproj.CoreCompileInputs.cache
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulClient\ConsulClient\obj\Debug\netcoreapp2.1\ConsulClient.AssemblyInfoInputs.cache
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulClient\ConsulClient\obj\Debug\netcoreapp2.1\ConsulClient.AssemblyInfo.cs
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulClient\ConsulClient\bin\Debug\netcoreapp2.1\ConsulClient.pdb
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulClient\ConsulClient\obj\Debug\netcoreapp2.1\ConsulClient.dll
+C:\Users\Alex.K.Wang\Desktop\Projects\Consul-DotnetCore\ConsulClient\ConsulClient\obj\Debug\netcoreapp2.1\ConsulClient.pdb
